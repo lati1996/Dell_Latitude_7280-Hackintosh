@@ -5,7 +5,7 @@ Warning: This EFI for Dell Latitude 7280 Japan model
 My specs
 - Intel core i5-7200U
 - 16gb RAM (one slot only)
-- SSD 512GB NVme onlye
+- SSD 512GB NVme only
 - 12.5in screen HD LED
 - Wifi Intel 8265
 
