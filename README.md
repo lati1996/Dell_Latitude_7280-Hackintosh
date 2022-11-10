@@ -1,13 +1,13 @@
-# Dell Latitude 7280 Hackintosh OC 0.85
+# Dell Latitude 7280 Hackintosh Opencore
 
-Warning: This EFI for Dell Latitude 7280 Japan model
+Warning: This EFI for Dell Latitude 7280 Japan model, add kext if you using Intel Wifi
 ----------------------------------------------------
 My specs
 - Intel core i5-7200U
-- 16gb RAM (one slot only)
-- SSD 512GB NVme only
+- 16gb RAM
+- SSD 512GB NVme
 - 12.5in screen HD LED
-- Wifi Intel 8265
+- Wifi BCM94360NG
 
 What is worrking?
 - Wifi - bluetooth
@@ -17,7 +17,7 @@ What is worrking?
 - HDMI audio
 - LAN
 - Audio
-- Sleep wake by power key
+- Sleep wake by power key and lid
 - Brighness
 
 
